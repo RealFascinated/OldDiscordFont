@@ -1,2 +1,2 @@
 # OldDiscordFont
-BetterDiscord theme to revert the new font to the old one.
+Revert the new ugly font to the old one
